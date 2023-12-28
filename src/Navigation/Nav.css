@@ -1,0 +1,39 @@
+nav {
+    display: flex;
+    border-bottom: 2px solid #f3f3f3;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    z-index: 999;
+    margin-left: 2rem;
+  }
+  
+  .search-input{
+    margin-left: 30rem;
+  
+  }
+  input {
+    padding: 20px 40px;
+    border:none;
+    background: #f7f6f6;
+    outline: none;
+    margin-right: 20px;
+    border-radius: 5px;
+    position: relative;
+    width: 17rem;
+    font-size: 14px;
+   
+  }
+  
+  .nav-icons {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+  }
+
+
+  .profile-container :hover{
+  color: red;
+  
+
+  }
